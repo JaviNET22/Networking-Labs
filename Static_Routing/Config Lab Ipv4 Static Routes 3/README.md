@@ -138,7 +138,7 @@ Ningun problema encontrado.
 | Campo       | Valor               |
 | ----------- | ------------------- |
 | Dificultad  | ⭐☆☆☆☆            |
-| Tecnologías | VLAN, Cisco IOS     |
+| Tecnologías |   Cisco IOS     |
 | Software    | Cisco Packet Tracer |
 | Estado      | ✅ Completado        |
 
