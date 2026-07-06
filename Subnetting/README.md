@@ -16,7 +16,7 @@ Subnetting básico
 
 **192.168.100.0/24**
 
-Debes crear **3 subredes iguales**.
+Debo crear **3 subredes iguales**.
 
 ---
 
