@@ -4,6 +4,9 @@
 
 Subnetting básico
 
+## Topology
+![Topology](images/Topology.png)
+
 ### Equipos
 
 - 1 Router (2911 o 1941)
