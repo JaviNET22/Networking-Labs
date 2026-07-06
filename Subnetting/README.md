@@ -20,7 +20,7 @@ Debo crear **3 subredes iguales**.
 
 ---
 
-## Lo que debes calcular
+## Lo que debo calcular
 
 1. Nueva máscara.
 2. Cantidad de hosts por subred.
