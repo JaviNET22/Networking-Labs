@@ -34,9 +34,7 @@ De aquí tenemos que sacar las subredes. A darle al cerebro.
 | Administración | 30               |
 | Ventas         | 12               |
 
-## Cálculos (la parte divertida)
-
-Aquí van las cuentas. Sí, en papel, como los picudos.
+## Cálculos
 
 ![Cálculos VLSM](img/calculos.jpg)
 
